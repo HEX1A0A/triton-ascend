@@ -2,7 +2,7 @@
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
-*       @ptillet
+*       @HEX1A0A
 
 # --------
 # Analyses
@@ -47,6 +47,7 @@ lib/Dialect/TritonGPU/Transforms/TritonGPUConversion.cpp @ptillet
 # -----------
 third_party/amd/ @antiagainst @zhanglx13
 third_party/proton/ @Jokeren @crobeck @fywkevin
+third_party/ascend/ @HEX1A0A
 
 # -----------
 # gluon
